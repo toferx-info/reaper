@@ -1,17 +1,17 @@
 {
     "bugs": [
         {
-            "description": "Login page CSRF vulnerability",
+            "description": "Some laptops dont support smoothwall",
             "severity": "critical",
-            "component": "authentication"
+            "component": "Edge Misplacement"
         },
         {
-            "description": "Memory leak in image processing",
-            "severity": "high",
-            "component": "media"
+            "description": "Low Deobfuscation",
+            "severity": "not related",
+            "component": "Obfuscation"
         },
         {
-            "description": "UI glitch in dark mode",
+            "description": "UI glitch on exit",
             "severity": "low"
         }
     ]
