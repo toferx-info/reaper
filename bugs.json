@@ -1,0 +1,18 @@
+{
+    "bugs": [
+        {
+            "description": "Login page CSRF vulnerability",
+            "severity": "critical",
+            "component": "authentication"
+        },
+        {
+            "description": "Memory leak in image processing",
+            "severity": "high",
+            "component": "media"
+        },
+        {
+            "description": "UI glitch in dark mode",
+            "severity": "low"
+        }
+    ]
+}
